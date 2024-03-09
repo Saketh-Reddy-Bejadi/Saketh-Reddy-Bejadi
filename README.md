@@ -2,9 +2,9 @@
 - 👋 Hi, I’m @Saketh-Reddy-Bejadi
 - 👀 I’m interested in Full Stack Web Developer(MERN) and UI/UX design
 - 🌱 I’m currently learning System Design
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on building projects and solving real problems
+- 📫 Reach me Linkedin
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 ## 🌐 Socials:
