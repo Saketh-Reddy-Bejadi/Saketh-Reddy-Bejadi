@@ -3,7 +3,7 @@
 - 👀 I’m interested in Full Stack Web Developer(MERN) and UI/UX design
 - 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on building projects and solving real problems
-- 📫 Reach me <a href="https://linkedin.com/in/https://www.linkedin.com/in/sakethreddybejadi/" >Linkedin</a>
+- 📫 Reach me <a href="https://www.linkedin.com/in/sakethreddybejadi/" >Linkedin</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
