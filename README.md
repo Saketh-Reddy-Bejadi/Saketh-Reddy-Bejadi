@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on building projects and solving real problems
 - 📫 Reach me <a href="https://www.linkedin.com/in/sakethreddybejadi/" >Linkedin</a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakethreddybejadi/) 
