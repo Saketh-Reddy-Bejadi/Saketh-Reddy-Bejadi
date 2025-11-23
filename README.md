@@ -3,11 +3,11 @@
 - 👀 I’m interested in Full Stack Web Developer(MERN) and UI/UX design
 - 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on building projects and solving real problems
-- 📫 Reach me <a href="https://www.linkedin.com/in/sakethreddybejadi/" >Linkedin</a>
+- 📫 Reach me <a href="https://www.linkedin.com/in/saketh-reddy-bejadi/" >Linkedin</a>
 - 😄 Pronouns: he/him
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakethreddybejadi/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saketh-reddy-bejadi/) 
 
 # 💻 Tech Stack:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
